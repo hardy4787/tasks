@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c87d60b5-849f-481e-ab59-f02b2a76cf40": {
+      "ProjectGuid": "c87d60b5-849f-481e-ab59-f02b2a76cf40",
+      "DisplayName": "Exersises S2",
+      "ColorIndex": 0
+    },
+    "716befd8-2156-4955-8411-b21b3eedd41a": {
+      "ProjectGuid": "716befd8-2156-4955-8411-b21b3eedd41a",
+      "DisplayName": "While",
+      "ColorIndex": 1
+    },
+    "a024db3a-4812-4634-959a-8daf3f0ae138": {
+      "ProjectGuid": "a024db3a-4812-4634-959a-8daf3f0ae138",
+      "DisplayName": "24_dificult_cod",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "6931cbeb-ff93-449a-95bf-b423c430d954": {
+      "ProjectGuid": "6931cbeb-ff93-449a-95bf-b423c430d954",
+      "DisplayName": "test",
+      "ColorIndex": 3
+    },
+    "761a1d53-d809-40ec-920e-54f30d9df649": {
+      "ProjectGuid": "761a1d53-d809-40ec-920e-54f30d9df649",
+      "DisplayName": "Exersises 2 continue",
+      "ColorIndex": 4
+    },
+    "a548e677-bd79-4dd6-a6cd-d2ce77a49d97": {
+      "ProjectGuid": "a548e677-bd79-4dd6-a6cd-d2ce77a49d97",
+      "DisplayName": "CONST",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

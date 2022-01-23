@@ -1,0 +1,16 @@
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\bin\Debug\net5.0\треугольник.exe
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\bin\Debug\net5.0\треугольник.deps.json
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\bin\Debug\net5.0\треугольник.runtimeconfig.json
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\bin\Debug\net5.0\треугольник.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\bin\Debug\net5.0\треугольник.dll
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\bin\Debug\net5.0\ref\треугольник.dll
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\bin\Debug\net5.0\треугольник.pdb
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\obj\Debug\net5.0\треугольник.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\obj\Debug\net5.0\треугольник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\obj\Debug\net5.0\треугольник.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\obj\Debug\net5.0\треугольник.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\obj\Debug\net5.0\треугольник.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\obj\Debug\net5.0\треугольник.dll
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\obj\Debug\net5.0\ref\треугольник.dll
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\obj\Debug\net5.0\треугольник.pdb
+C:\Users\Сергей\source\repos\HW\ConsoleApp1\obj\Debug\net5.0\треугольник.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\bin\Debug\net5.0\blanks.exe
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\bin\Debug\net5.0\blanks.deps.json
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\bin\Debug\net5.0\blanks.runtimeconfig.json
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\bin\Debug\net5.0\blanks.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\bin\Debug\net5.0\blanks.dll
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\bin\Debug\net5.0\ref\blanks.dll
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\bin\Debug\net5.0\blanks.pdb
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\obj\Debug\net5.0\blanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\obj\Debug\net5.0\blanks.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\obj\Debug\net5.0\blanks.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\obj\Debug\net5.0\blanks.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\obj\Debug\net5.0\blanks.dll
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\obj\Debug\net5.0\ref\blanks.dll
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\obj\Debug\net5.0\blanks.pdb
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\obj\Debug\net5.0\blanks.genruntimeconfig.cache
+C:\Users\Сергей\source\repos\HW\Новая папка\blanks\obj\Debug\net5.0\blanks.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Сергей\source\repos\HW\IF _ELSE\bin\Debug\net5.0\IF _ELSE.exe
+C:\Users\Сергей\source\repos\HW\IF _ELSE\bin\Debug\net5.0\IF _ELSE.deps.json
+C:\Users\Сергей\source\repos\HW\IF _ELSE\bin\Debug\net5.0\IF _ELSE.runtimeconfig.json
+C:\Users\Сергей\source\repos\HW\IF _ELSE\bin\Debug\net5.0\IF _ELSE.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\HW\IF _ELSE\bin\Debug\net5.0\IF _ELSE.dll
+C:\Users\Сергей\source\repos\HW\IF _ELSE\bin\Debug\net5.0\ref\IF _ELSE.dll
+C:\Users\Сергей\source\repos\HW\IF _ELSE\bin\Debug\net5.0\IF _ELSE.pdb
+C:\Users\Сергей\source\repos\HW\IF _ELSE\obj\Debug\net5.0\IF _ELSE.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\HW\IF _ELSE\obj\Debug\net5.0\IF _ELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\HW\IF _ELSE\obj\Debug\net5.0\IF _ELSE.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\HW\IF _ELSE\obj\Debug\net5.0\IF _ELSE.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\HW\IF _ELSE\obj\Debug\net5.0\IF _ELSE.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\HW\IF _ELSE\obj\Debug\net5.0\IF _ELSE.dll
+C:\Users\Сергей\source\repos\HW\IF _ELSE\obj\Debug\net5.0\ref\IF _ELSE.dll
+C:\Users\Сергей\source\repos\HW\IF _ELSE\obj\Debug\net5.0\IF _ELSE.pdb
+C:\Users\Сергей\source\repos\HW\IF _ELSE\obj\Debug\net5.0\IF _ELSE.genruntimeconfig.cache

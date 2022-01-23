@@ -1,0 +1,16 @@
+C:\Users\Сергей\source\repos\HW\HW\bin\Debug\net5.0\CONST.exe
+C:\Users\Сергей\source\repos\HW\HW\bin\Debug\net5.0\CONST.deps.json
+C:\Users\Сергей\source\repos\HW\HW\bin\Debug\net5.0\CONST.runtimeconfig.json
+C:\Users\Сергей\source\repos\HW\HW\bin\Debug\net5.0\CONST.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\HW\HW\bin\Debug\net5.0\CONST.dll
+C:\Users\Сергей\source\repos\HW\HW\bin\Debug\net5.0\ref\CONST.dll
+C:\Users\Сергей\source\repos\HW\HW\bin\Debug\net5.0\CONST.pdb
+C:\Users\Сергей\source\repos\HW\HW\obj\Debug\net5.0\CONST.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\HW\HW\obj\Debug\net5.0\CONST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\HW\HW\obj\Debug\net5.0\CONST.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\HW\HW\obj\Debug\net5.0\CONST.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\HW\HW\obj\Debug\net5.0\CONST.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\HW\HW\obj\Debug\net5.0\CONST.dll
+C:\Users\Сергей\source\repos\HW\HW\obj\Debug\net5.0\ref\CONST.dll
+C:\Users\Сергей\source\repos\HW\HW\obj\Debug\net5.0\CONST.pdb
+C:\Users\Сергей\source\repos\HW\HW\obj\Debug\net5.0\CONST.genruntimeconfig.cache

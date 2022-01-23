@@ -1,0 +1,16 @@
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\bin\Debug\net5.0\24_dificult_cod.exe
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\bin\Debug\net5.0\24_dificult_cod.deps.json
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\bin\Debug\net5.0\24_dificult_cod.runtimeconfig.json
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\bin\Debug\net5.0\24_dificult_cod.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\bin\Debug\net5.0\24_dificult_cod.dll
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\bin\Debug\net5.0\ref\24_dificult_cod.dll
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\bin\Debug\net5.0\24_dificult_cod.pdb
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\obj\Debug\net5.0\24_dificult_cod.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\obj\Debug\net5.0\24_dificult_cod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\obj\Debug\net5.0\24_dificult_cod.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\obj\Debug\net5.0\24_dificult_cod.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\obj\Debug\net5.0\24_dificult_cod.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\obj\Debug\net5.0\24_dificult_cod.dll
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\obj\Debug\net5.0\ref\24_dificult_cod.dll
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\obj\Debug\net5.0\24_dificult_cod.pdb
+C:\Users\Сергей\source\repos\HW\24_dificult_cod\obj\Debug\net5.0\24_dificult_cod.genruntimeconfig.cache

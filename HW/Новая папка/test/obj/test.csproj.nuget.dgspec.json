@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Сергей\\source\\repos\\HW\\Новая папка\\test\\test.csproj": {}
+    "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\Новая папка\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Сергей\\source\\repos\\HW\\Новая папка\\test\\test.csproj": {
+    "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\Новая папка\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Сергей\\source\\repos\\HW\\Новая папка\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\Новая папка\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\Сергей\\source\\repos\\HW\\Новая папка\\test\\test.csproj",
+        "projectPath": "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\Новая папка\\test\\test.csproj",
         "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Сергей\\source\\repos\\HW\\Новая папка\\test\\obj\\",
+        "outputPath": "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\Новая папка\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",

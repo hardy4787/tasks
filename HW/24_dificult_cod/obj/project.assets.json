@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Сергей\\source\\repos\\HW\\24_dificult_cod\\24_dificult_cod.csproj",
+      "projectUniqueName": "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\24_dificult_cod\\24_dificult_cod.csproj",
       "projectName": "24_dificult_cod",
-      "projectPath": "C:\\Users\\Сергей\\source\\repos\\HW\\24_dificult_cod\\24_dificult_cod.csproj",
+      "projectPath": "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\24_dificult_cod\\24_dificult_cod.csproj",
       "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Сергей\\source\\repos\\HW\\24_dificult_cod\\obj\\",
+      "outputPath": "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\24_dificult_cod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",

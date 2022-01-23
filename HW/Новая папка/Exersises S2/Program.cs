@@ -6,7 +6,8 @@ namespace Exersises_S2
     {
         static void Main(string[] args)
         {
-            // {
+            //HELLO
+                // {
 
             //            S2.1. Составить программу:
             //  { //а) вычисления значения функции y=7x2+3x+6 при любом значении x;
@@ -21,7 +22,7 @@ namespace Exersises_S2
             int a = int.Parse(Console.ReadLine());
             int x = 12 * (a * a) + 7 * a + 12;
             Console.WriteLine(x);
-
+            Hello
         }
             //S2.2. Дана сторона квадрата. Найти его периметр. — решение.
             {

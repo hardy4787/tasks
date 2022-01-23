@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Сергей\\source\\repos\\HW\\Новая папка\\Exersises S2\\Exersises S2.csproj",
+      "projectUniqueName": "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\Новая папка\\Exersises S2\\Exersises S2.csproj",
       "projectName": "Exersises S2",
-      "projectPath": "C:\\Users\\Сергей\\source\\repos\\HW\\Новая папка\\Exersises S2\\Exersises S2.csproj",
+      "projectPath": "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\Новая папка\\Exersises S2\\Exersises S2.csproj",
       "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Сергей\\source\\repos\\HW\\Новая папка\\Exersises S2\\obj\\",
+      "outputPath": "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\Новая папка\\Exersises S2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",

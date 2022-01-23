@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Сергей\\source\\repos\\HW\\IF _ELSE\\IF _ELSE.csproj",
+      "projectUniqueName": "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\IF _ELSE\\IF _ELSE.csproj",
       "projectName": "IF _ELSE",
-      "projectPath": "C:\\Users\\Сергей\\source\\repos\\HW\\IF _ELSE\\IF _ELSE.csproj",
+      "projectPath": "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\IF _ELSE\\IF _ELSE.csproj",
       "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Сергей\\source\\repos\\HW\\IF _ELSE\\obj\\",
+      "outputPath": "C:\\Users\\Сергей\\Desktop\\progects\\tasks\\HW\\IF _ELSE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
